@@ -1,6 +1,7 @@
-h2{
+.subTitle{
     font-family: "Press Start 2P" , sans-serif;
-    font-size: 20px;
+    font-size: 30px;
     color: #fff;
     text-shadow: 4px 4px 0 #000;
+    text-align: center;
 }
